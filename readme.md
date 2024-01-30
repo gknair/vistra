@@ -3,7 +3,7 @@
 - The repository is divided into 4 folders  
 - The notebooks 01xx.ipynb -> 06xx.ipynb are utilized for data exploration, feature engineering, model development, testing, hypertuning, and prediction  
 - The data folder contains raw data, transformed data, and visuals for analysis  
-- The src folder is a module for functions and constants that can be used for productionlizing the code  
+- The src folder is a module for functions and constants that can be used for productionalizing the code  
     - ChatGPT is utilized to create comments and enhancing the function definitions
 
 ## Data Exploration
