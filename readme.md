@@ -18,5 +18,8 @@
 
 - As next steps, ARIMA models can be tested to check if the patterns could be better mapped with statistical models
 - There are around 16 days which do not have values every hour, This could be investigated to ascertain the cause of the same. Current assumptions are that the data was not captured. If there were events that allude to different issues , this could be incoorporated in the data set.
+- The seasonal pattern of wind energy as described by the EIA, is not captured here since the training set does not include multiple years of data.  
+Additional data could enable more accurate predictions
+- The data files have been comitted to git here since it is a small data excercise, in practice we would not be commit data to a git repo
 
 
